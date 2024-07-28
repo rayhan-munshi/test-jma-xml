@@ -3,7 +3,7 @@
   <title>高頻度（随時）</title>
   <subtitle>JMAXML publishing feed</subtitle>
   <updated>2024-07-25T14:16:50+09:00</updated>
-  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_1721884610</id>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_r1</id>
   <link rel="related" href="https://www.jma.go.jp/"/>
   <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
   <link rel="hub" href="http://alert-hub.appspot.com/"/>
